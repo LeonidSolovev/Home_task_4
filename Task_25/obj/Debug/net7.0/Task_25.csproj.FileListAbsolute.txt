@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask4\Task_25\bin\Debug\net7.0\Task_25.exe
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask4\Task_25\bin\Debug\net7.0\Task_25.deps.json
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask4\Task_25\bin\Debug\net7.0\Task_25.runtimeconfig.json
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask4\Task_25\bin\Debug\net7.0\Task_25.dll
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask4\Task_25\bin\Debug\net7.0\Task_25.pdb
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask4\Task_25\obj\Debug\net7.0\Task_25.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask4\Task_25\obj\Debug\net7.0\Task_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask4\Task_25\obj\Debug\net7.0\Task_25.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask4\Task_25\obj\Debug\net7.0\Task_25.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask4\Task_25\obj\Debug\net7.0\Task_25.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask4\Task_25\obj\Debug\net7.0\Task_25.dll
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask4\Task_25\obj\Debug\net7.0\refint\Task_25.dll
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask4\Task_25\obj\Debug\net7.0\Task_25.pdb
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask4\Task_25\obj\Debug\net7.0\Task_25.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask4\Task_25\obj\Debug\net7.0\ref\Task_25.dll
